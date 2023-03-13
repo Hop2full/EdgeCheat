@@ -1,3 +1,4 @@
+//I made this and this is not obfuscated so feel free to fork it- Jaswin
 import org.bukkit.command.Command;
 import org.bukkit.command.CommandSender;
 import org.bukkit.entity.Player;
